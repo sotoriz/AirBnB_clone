@@ -170,4 +170,6 @@ The recognizable commands by the interpreter are the following:
 | **count** | Retrieve the number of instances of a class.  |
 | **Usage** | **<class name\>.count()** |
 
-## Authors :black_nib:                        * **kuyik Bassey** <[kuyik](https://github.com/kuyik)>                                      * **Sotonye Orifama** <[sotoriz](https://github.com/sotoriz)>
+## Authors :black_nib:
+
+* kuyik Bassey <[kuyik](https://github.com/kuyik)>                                          * Sotonye Orifama <[sotoriz](https://github.com/sotoriz)>
