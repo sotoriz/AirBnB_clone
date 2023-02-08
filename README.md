@@ -172,4 +172,5 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors :black_nib:
 
-* kuyik Bassey <[kuyik](https://github.com/kuyik)>                                          * Sotonye Orifama <[sotoriz](https://github.com/sotoriz)>
+* kuyik Bassey  <[kuyik](https://github.com/kuyik)>    
+* Sotonye Orifama  <[sotoriz](https://github.com/sotoriz)>
