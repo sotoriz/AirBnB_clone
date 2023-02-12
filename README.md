@@ -1,4 +1,5 @@
-#  0x00. AirBnB clone - The console
+0x00. AirBnB clone - The console
+
 ## Team Project
 
 ![AirBnB Logo](https://www.pngitem.com/pimgs/m/132-1322125_transparent-background-airbnb-logo-hd-png-download.png)
@@ -171,5 +172,5 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors :black_nib:
 
-* kuyik Bassey  <[kuyik](https://github.com/kuyik)>    
+* kuyik Bassey  <[kuyik2](https://github.com/kuyik2)>    
 * Sotonye Orifama  <[sotoriz](https://github.com/sotoriz)>
