@@ -1,4 +1,4 @@
-##    0x01. AirBnB clone - Web static
+##   0x01. AirBnB clone - Web static
 
 ### Description
 > This is one phase of the Airbnb Clone: the HTML and CSS part. The Images
